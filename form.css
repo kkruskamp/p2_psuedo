@@ -1,0 +1,18 @@
+html {
+  font-family: monospace;
+  font-weight: bolder;
+  color:#443310;
+  background-image: url(https://a2ua.com/trippy/trippy-008.jpg)
+}
+
+.user_input {
+  width: 50px;
+}
+
+.box {
+    background-color: pink;
+    width: 95%;
+    height: 75%;
+    border: dotted;
+    padding: 30px;
+}
