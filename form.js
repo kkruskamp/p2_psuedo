@@ -1,3 +1,4 @@
+//AUTHOR: Kyle Kruskamp
 //a + b * b * a
 function validate() {
   var winCounter = 0;
